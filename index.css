@@ -280,13 +280,13 @@ body{
 }
 @media screen and (max-width:1025px){
     .header{
-        height:1500px;
-        background-size: 100% 1500px;
+        height:2000px;
+        background-size: 100% 2000px;
     }
     @keyframes change_cover{
-        25%{background-image: url('image-interactive.jpg');background-size: 100% 1500px;}
-        50%{background-image: url('image-grid2.jpg');background-size: 100% 1500px;}
-        100%{background-image: url('image-hero.jpg');background-size: 100% 1500px;}
+        25%{background-image: url('image-interactive.jpg');background-size: 100% 2000px;}
+        50%{background-image: url('image-grid2.jpg');background-size: 100% 2000px;}
+        100%{background-image: url('image-hero.jpg');background-size: 100% 2000px;}
     }
     .navbar-brand{
         font-size:80px;
