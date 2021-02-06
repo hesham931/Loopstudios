@@ -161,27 +161,35 @@ body{
 }
 #card1{
     background-image: url('image-deep-earth.jpg');
+    background-repeat: no-repeat;
 }
 #card2{
     background-image: url('image-night-arcade.jpg');
+    background-repeat: no-repeat;
 }
 #card3{
     background-image: url('image-soccer-team.jpg');
+    background-repeat: no-repeat;
 }
 #card4{
     background-image: url('image-grid.jpg');
+    background-repeat: no-repeat;
 }
 #card5{
     background-image: url('image-from-above.jpg');
+    background-repeat: no-repeat;
 }
 #card6{
     background-image: url('image-pocket-borealis.jpg');
+    background-repeat: no-repeat;
 }
 #card7{
     background-image: url('image-curiosity.jpg');
+    background-repeat: no-repeat;
 }
 #card8{
     background-image: url('image-fisheye.jpg');
+    background-repeat: no-repeat;
 }
 .information{
     background-color: black;
@@ -271,21 +279,21 @@ body{
 }
 @media screen and (max-width:1025px){
     .header{
-        height:1000px;
-        background-size: 100% 1000px;
+        height:1500px;
+        background-size: 100% 1500px;
     }
     @keyframes change_cover{
-        25%{background-image: url('image-interactive.jpg');background-size: 100% 1000px;}
-        50%{background-image: url('image-grid2.jpg');background-size: 100% 1000px;}
-        100%{background-image: url('image-hero.jpg');background-size: 100% 1000px;}
+        25%{background-image: url('image-interactive.jpg');background-size: 100% 1500px;}
+        50%{background-image: url('image-grid2.jpg');background-size: 100% 1500px;}
+        100%{background-image: url('image-hero.jpg');background-size: 100% 1500px;}
     }
     .navbar-brand{
         font-size:80px;
         letter-spacing: 10px;
         padding:30px
     }
-    .fas{
-        font-size: 40px;
+    .navbar-toggler{
+         font-size: 70px;
     }
     .collapse{
         height:700px;
