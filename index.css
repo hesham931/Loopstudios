@@ -278,7 +278,10 @@ body{
         padding:30px
     }
     .fas{
-        font-size: 40px;
+        font-size: 70px;
+    }
+    .navbar-toggler{
+        font-size: 70px;
     }
     .collapse{
         height:700px;
