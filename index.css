@@ -147,27 +147,35 @@ body{
 }
 #card1{
     background-image: url('image-deep-earth.jpg');
+    background-repeat: no-repeat;
 }
 #card2{
     background-image: url('image-night-arcade.jpg');
+    background-repeat: no-repeat;
 }
 #card3{
     background-image: url('image-soccer-team.jpg');
+    background-repeat: no-repeat;
 }
 #card4{
     background-image: url('image-grid.jpg');
+    background-repeat: no-repeat;
 }
 #card5{
     background-image: url('image-from-above.jpg');
+    background-repeat: no-repeat;
 }
 #card6{
     background-image: url('image-pocket-borealis.jpg');
+    background-repeat: no-repeat;
 }
 #card7{
     background-image: url('image-curiosity.jpg');
+    background-repeat: no-repeat;
 }
 #card8{
     background-image: url('image-fisheye.jpg');
+    background-repeat: no-repeat;
 }
 .information{
     background-color: black;
