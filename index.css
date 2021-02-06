@@ -256,11 +256,26 @@ body{
 }
 @media screen and (max-width:1025px){
     .header{
-        height:800px
+        height:1000px;
+        background-size: 100% 1000px;
     }
     @keyframes change_cover{
-        25%{background-image: url('image-interactive.jpg');background-size: 100% 800px;}
-        50%{background-image: url('image-grid2.jpg');background-size: 100% 800px;}
-        100%{background-image: url('image-hero.jpg');background-size: 100% 800px;}
+        25%{background-image: url('image-interactive.jpg');background-size: 100% 1000px;}
+        50%{background-image: url('image-grid2.jpg');background-size: 100% 1000px;}
+        100%{background-image: url('image-hero.jpg');background-size: 100% 1000px;}
+    }
+    .navbar-brand{
+        font-size:80px;
+        letter-spacing: 10px;
+        padding:30px
+    }
+    .fas{
+        font-size: 40px;
+    }
+    .collapse{
+        height:700px;
+    }
+    .nav-link{
+        font-size:30px;
     }
 }
