@@ -288,6 +288,7 @@ body{
     }
     #card1,#card2,#card3,#card4,#card5,#card6,#card7,#card8{
         width:350px;
+        
     }
     .intro>p{
         font-size:40px;
@@ -295,5 +296,20 @@ body{
     #hyperLink_see_all{
         padding: 7px;
         font-size: 20px;
+    }
+    .info2{
+        margin-left: 600px;
+    }
+    #linksEndOfPage1{
+        font-size: 60px;
+    }
+    #social{
+        font-size: 45px;
+    }
+    .me{
+        font-size: 45px;
+    }
+    #name{
+        font-size: 45px;
     }
 }
