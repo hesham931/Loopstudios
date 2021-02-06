@@ -84,7 +84,7 @@ body{
 .body_middle{
     margin:100px;
     position:relative;
-    z-index:300
+    z-index:200
 }
 @keyframes A{
     0%{top:200px}
