@@ -159,6 +159,8 @@ body{
 #card1:hover,#card2:hover,#card3:hover,#card4:hover,#card5:hover,#card6:hover,#card7:hover,#card8:hover{
     opacity: 0.5;
     cursor: pointer;
+    position: relative;
+    top:-10px;
 }
 #card1{
     background-image: url('image-deep-earth.jpg');
